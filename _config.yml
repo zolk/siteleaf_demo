@@ -29,4 +29,10 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: "/organizers"
+    type: pages
+  values:
+    company: ''
+    file: ''
 permalink: pretty
